@@ -8,3 +8,10 @@ iOS app built in xcode. App Displays 8ball shaker. If you ask the 8ball a questi
 
 
 Requirements
+. Xcode Version 10.1+
+. iOS 12.1.4+
+
+Installation
+1.Download and drop YourLibrary.swift in your project.
+2.Congratulations!
+
